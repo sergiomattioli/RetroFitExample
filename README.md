@@ -1,7 +1,7 @@
 
 # RetroFit Example
 
-An easy example of using RetroFit library, turning a REST API (Weather API in this case) into a Java interface.
+An easy example of using RetroFit library, turning a REST API (a Weather API in this case) into a Java interface.
 
 You can see more of this useful library at http://square.github.io/retrofit/
 
